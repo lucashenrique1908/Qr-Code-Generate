@@ -1,2 +1,2 @@
-# Basic-Form
-Basic Formulary
+# Basic-Qr-Code-Generate
+Basic Qr code create with API...  
